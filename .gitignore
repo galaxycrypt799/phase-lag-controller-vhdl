@@ -1,0 +1,18 @@
+# Simulator output
+work/
+transcript
+vsim.wlf
+*.vcd
+*.ghw
+*.wdb
+
+# Quartus output
+db/
+incremental_db/
+output_files/
+*.qws
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
