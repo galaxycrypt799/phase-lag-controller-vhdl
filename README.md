@@ -5,9 +5,9 @@ Phase-Lag được xây dựng như một CPU nhỏ có vi chương trình; đ�
 khiển được đưa vào mô hình plant bậc hai. Dữ liệu dùng số có dấu 24-bit, định
 dạng fixed-point Q14.
 
-> **Trạng thái:** mã nguồn và testbench được sắp xếp trong repository. Các test
->bench là những kịch bản mô phỏng có sẵn; cần chạy bằng simulator để xác nhận
->kết quả trên máy của bạn.
+> **Trạng thái:** mã nguồn và testbench được sắp xếp trong repository. Các testbench
+có sẵn là kịch bản mô phỏng; cần chạy chúng bằng simulator để xác nhận kết quả
+trên máy của bạn.
 
 ## Mục lục
 
