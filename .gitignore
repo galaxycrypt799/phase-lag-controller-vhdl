@@ -1,4 +1,5 @@
 # Simulator output
+build/
 work/
 transcript
 vsim.wlf
